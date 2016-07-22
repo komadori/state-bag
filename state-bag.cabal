@@ -52,3 +52,7 @@ test-suite Test
     state-bag    == 0.1.*,
     transformers >= 0.4 && < 0.6,
     hspec        >= 2.2 && < 2.3
+
+source-repository head
+    type:     darcs
+    location: http://hub.darcs.net/komadori/state-bag/
